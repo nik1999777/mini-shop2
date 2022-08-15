@@ -1,5 +1,5 @@
 # mini-shop2
-Learning project with React and Redux Toolkit.
+Learning project with React, Next.js and Redux Toolkit.
 
 ![Alt text](screenshots/shop.png?raw=true "Optional Title")
 
